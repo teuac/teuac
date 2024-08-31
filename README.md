@@ -7,4 +7,4 @@
 
 ### Linguagens e Frameworks
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring)
+![Spring](https://img.shields.io/badge/Spring-008000?style=for-the-badge&logo=spring)

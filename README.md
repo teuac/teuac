@@ -7,7 +7,7 @@
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/cauet-campos-59b0b8312)
-[![Celular](https://img.shields.io/badge/Celular-0077B5?style=for-the-badge&logo=phone&logoColor=fff)](79988131541)
+[![Celular](https://img.shields.io/badge/Celular-green?style=for-the-badge&logo=phone&logoColor=fff)](https://wa.me/5579988131541)
 
 ### Competências 
 ![Java](https://img.shields.io/badge/Java-363636?style=for-the-badge&logo=java)
